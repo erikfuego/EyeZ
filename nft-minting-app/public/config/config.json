@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfAbf207785F1C06297f44795a6c6a50557D482Ca",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xfabf207785f1c06297f44795a6c6a50557d482ca",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EyeZ NFT",
+  "SYMBOL": "EyZNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eyez-u40rm3vnu8",
+  "SHOW_BACKGROUND": true
+}
